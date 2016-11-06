@@ -4,4 +4,4 @@ It has some basic functions:
  - Play, stop, pause a video.
  - Use menu to choose a video or subtitle file.
  - Change Volume.
- - Change the progress of the video,
+ - Change the progress of the video.
